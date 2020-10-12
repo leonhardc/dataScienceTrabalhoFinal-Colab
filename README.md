@@ -7,4 +7,4 @@ Trabalho final da disciplina de DataScience
 
 # A modelagem  dos dados foi realizada utilizando o algoritmo _________-
 
-# Para a Construção do data app, foi utilizado o Dash: https://dash.plotly.com/
+ Para a Construção do data app, foi utilizado o Dash: https://dash.plotly.com/
